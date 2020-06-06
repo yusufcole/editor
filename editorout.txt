@@ -1,0 +1,17 @@
+group	5
+	Ellipse 214 143 164 156
+	Ellipse 214 143 164 156
+	Ellipse 214 143 164 156
+	Ellipse 214 143 164 156
+	Ellipse 214 143 80 50
+group	2
+	group	5
+		Ellipse 214 143 164 156
+		Ellipse 214 143 164 156
+		Ellipse 214 143 164 156
+		Ellipse 214 143 164 156
+		Ellipse 214 143 80 50
+	Ellipse 214 143 80 50
+Rectangele 281 293 349 353	
+Ellipse 231 178 80 50	
+Ellipse 214 143 80 50	
